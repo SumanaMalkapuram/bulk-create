@@ -1,0 +1,12 @@
+[{ "email": "fake1@fake.test.com", "password": "1234", "connection": "Username-Password-Authentication" },
+  { "email": "fake2@fake.test.com", "password": "4567", "connection": "Username-Password-Authentication" },
+  { "email": "fake3@fake.test.com", "password": "8901", "connection": "Username-Password-Authentication" },
+  { "email": "fake4@fake.test.com", "password": "8901", "connection": "Username-Password-Authentication" },
+  { "email": "fake5@fake.test.com", "password": "8901", "connection": "Username-Password-Authentication" },
+  { "email": "fake6@fake.test.com", "password": "8901", "connection": "Username-Password-Authentication" },
+  { "email": "fake7@fake.test.com", "password": "8901", "connection": "Username-Password-Authentication" },
+  { "email": "fake8@fake.test.com", "password": "8901", "connection": "Username-Password-Authentication" },
+  { "email": "fake9@fake.test.com", "password": "8901", "connection": "Username-Password-Authentication" },
+  { "email": "fake10@fake.test.com", "password": "8901", "connection": "Username-Password-Authentication" },
+  { "email": "fake11@fake.test.com", "password": "8901", "connection": "Username-Password-Authentication" }
+]

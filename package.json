@@ -1,0 +1,25 @@
+{
+  "name": "bulk-delete",
+  "version": "1.0.0",
+  "description": "Delete users in bulk",
+  "main": "index.js",
+  "dependencies": {
+    "auth0": "^2.24.0",
+    "es6-promise-pool": "^2.5.0",
+    "http": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SumanaMalkapuram/bulk-delete.git"
+  },
+  "author": "Sumana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SumanaMalkapuram/bulk-delete/issues"
+  },
+  "homepage": "https://github.com/SumanaMalkapuram/bulk-delete#readme"
+}
